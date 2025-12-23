@@ -1,7 +1,7 @@
 Linux kernel
 ============
 
-The Linux kernel is the core of any Linux operating system. It manages hardware,
+The Linux kernel is the core of any Linux distribution. It manages hardware,
 system resources, and provides the fundamental services for all other software.
 
 Quick Start
